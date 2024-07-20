@@ -6,7 +6,7 @@
 ##  **LEARNING WEB DEVELOPMENT**
 
 - ## 👨‍💻 **All of my projects are available at:**  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahil1476)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahil1476?tab=repositories)
 
 - ## 💬 **Ask me about:**  
    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

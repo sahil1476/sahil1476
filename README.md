@@ -1,5 +1,5 @@
 
-# <h1 align="center">Hi 👋, I'm SAHIL SHARMA</h1>
+# <h1 align="center">![](https://img.icons8.com/?size=100&id=h7773oKrdwl9&format=png&color=000000) Hi 👋, I'm SAHIL SHARMA</h1>
 <h2 align="center">🌟 A passionate Web developer from India 🌟</h2>
 
 

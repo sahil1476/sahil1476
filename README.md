@@ -1,5 +1,6 @@
 
-# <h1 align="center">![](https://img.icons8.com/?size=100&id=h7773oKrdwl9&format=png&color=000000) Hi 👋, I'm SAHIL SHARMA</h1>
+![](https://github.com/sahil1476/sahil1476/blob/main/Banner.gif?raw=true)
+# <h1 align="center"> Hi 👋, I'm SAHIL SHARMA</h1>
 <h2 align="center">🌟 A passionate Web developer from India 🌟</h2>
 
 

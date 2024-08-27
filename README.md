@@ -1,10 +1,7 @@
 
 ![](https://github.com/sahil1476/sahil1476/blob/main/Banner.gif?raw=true)
 # <h1 align="center"> Hi 👋, I'm SAHIL SHARMA</h1>
-<h2 align="center">🌟 A passionate Web developer from India 🌟</h2>
 
-
-##  **LEARNING WEB DEVELOPMENT**
 
 - ## 👨‍💻 **All of my projects are available at:**  
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahil1476?tab=repositories)

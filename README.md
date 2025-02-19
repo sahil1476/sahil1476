@@ -19,12 +19,6 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krsahilsharma07@gmail.com)
 
 
-- ## 📄 **Know about my experiences:**  
-    [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://github.com/sahil1476/sahil1476/blob/main/SAHIL%20SHARMA%20WEB%20DEV%20CV.pdf)
-
-
-
-
 ---
 
 ## ⚡ **Fun fact:**  

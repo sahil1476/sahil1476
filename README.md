@@ -1,5 +1,5 @@
 
-![](https://github.com/sahil1476/sahil1476/blob/main/Banner.gif?raw=true)
+![](https://github.com/sahil1476/sahil1476/blob/main/gitban.gif)
 # <h1 align="center"> Hi 👋, I'm SAHIL SHARMA</h1>
 
 
